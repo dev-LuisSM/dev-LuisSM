@@ -81,5 +81,4 @@
 <br>
 
 <h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Github Streak Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-luissm&theme=dark"
-        alt="dev-luissm" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-luissm&theme=dark" alt="dev-luissm" /></p>
