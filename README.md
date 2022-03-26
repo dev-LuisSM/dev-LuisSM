@@ -2,7 +2,7 @@
 <h3 align="center" style="font-weight:500;">A Front End developer and UX/UI design lover from Mexico.</h3>
 <br>
 
-- 🔭 I’m currently working on [Launch X - FrontEnd mission](https://github.com/dev-LuisSM/Mision-Frontend)
+- 🔭 I’m currently learning in [Launch X - FrontEnd mission](https://github.com/dev-LuisSM/Mision-Frontend)
 
 - 🌱 I’m currently learning **in Microsoft Launch X course. Learning VueJs and NodeJs.**
 
