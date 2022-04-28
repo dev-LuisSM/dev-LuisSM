@@ -79,6 +79,3 @@
         <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40" /> </a>
 </p>
 <br>
-
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Github Streak Stats:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-luissm&theme=dark" alt="dev-luissm" /></p>
