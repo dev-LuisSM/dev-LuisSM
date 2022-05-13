@@ -4,20 +4,21 @@
 <h3 style="font-family: 'Poppins'; font-weight:600;">Abut me:</h3>
 
 ```javascript
-const = devLuisSm {
-    age: 23,
-    myJob: 'Cells Developer in BBVA MX',
-    currentlyLearning: {
-        frontEnd: ['VueJs', 'React'],
-        backEnd: ['NodeJs', 'Jest'],
-        in: 'LaunchX',
-        myMentors: {
-            'fernandaOchoa': '@FernandaOchoa',
-            'rodrigoMartines': '@romarpla',
-            'carloGilmar': '@carlogilmar'
-        }
+const devLuisSm = {
+  age: 23,
+  myJob: 'Cells Developer in BBVA MX',
+  currentlyLearning: {
+    frontEnd: ['VueJs', 'React'],
+    backEnd: ['NodeJs', 'Jest'],
+    in: 'LaunchX',
+    myMentors: {
+        'fernandaOchoa': '@FernandaOchoa',
+        'rodrigoMartines': '@romarpla',
+        'carloGilmar': '@carlogilmar',
+        searchThem: () => { return `Search them on Github`; }
     }
-}
+  }
+};
 ```
 
 <h3 style="font-family: 'Poppins'; font-weight:600;">Front End Development:</h3>
