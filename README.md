@@ -1,81 +1,53 @@
-<h1 align="center" style="font-family: 'Poppins'; font-weight:600;">Hi 👋, I'm Luis Silva Martin</h1>
-<h3 align="center" style="font-weight:500;">A Front End developer and UX/UI design lover from Mexico.</h3>
-<br>
+<h1 style="font-family: 'Poppins'; font-weight:600;">Hello, I'm Luis Silva Martin 💻 <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h3 style="font-weight:500;">Fullstack developer (in progress) 💻 - UX/UI design lover 🎨.</h3>
 
-- 🔭 I’m currently learning in [Launch X - FrontEnd mission](https://github.com/dev-LuisSM/Mision-Frontend)
+<h3 style="font-family: 'Poppins'; font-weight:600;">Abut me:</h3>
 
-- 🌱 I’m currently learning **in Microsoft Launch X course. Learning VueJs and NodeJs.**
+```javascript
+const = devLuisSm {
+    age: 23,
+    myJob: 'Cells Developer in BBVA MX',
+    currentlyLearning: {
+        frontEnd: ['VueJs', 'React'],
+        backEnd: ['NodeJs', 'Jest'],
+        in: 'LaunchX',
+        myMentors: {
+            'fernandaOchoa': '@FernandaOchoa',
+            'rodrigoMartines': '@romarpla',
+            'carloGilmar': '@carlogilmar'
+        }
+    }
+}
+```
 
-- 📫 How to reach me **dev.luissm@gmail.com**
+<h3 style="font-family: 'Poppins'; font-weight:600;">Front End Development:</h3>
 
-<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/dev-luis-sm" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="dev-luis-sm" height="30" width="40" /></a>
-    <a href="https://instagram.com/dev_luissm" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="dev_luissm" height="30" width="40" /></a>
-    <a href="https://dribbble.com/luis_silva" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            alt="luis_silva" height="30" width="40" /></a>
-</p>
+<h3 style="font-family: 'Poppins'; font-weight:600;">Backend Development (Learning):</h3>
 
-<br>
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Front End Development:</h3>
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="50" height="50" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="40" height="40" /> </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="vuejs" width="40" height="40" /> </a> 
-</p>
-<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Backend Development (Learning):</h3>
-<p align="center">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="50" height="50" /> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"height="40" /> </a> 
-</p>
-<br>
+<h3 style="font-family: 'Poppins'; font-weight:600;">Other Tools:</h3>
 
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Deskptop Develpment:</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-<br>
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
+<h3 style="font-family: 'Poppins'; font-weight:600;">Connect with me:</h3>
 
-<h3 align="center" style="font-family: 'Poppins'; font-weight:600;">Other Tools:</h3>
-<p align="center"> 
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40" /> </a>
-</p>
-<br>
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/luis_silva)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://linkedin.com/in/dev-luis-sm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+](https://instagram.com/dev_luissm)
