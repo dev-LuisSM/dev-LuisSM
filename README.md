@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Poppins'; font-weight:600;">Hello, I'm Luis Silva Martin 💻 <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h1 style="font-family: 'Poppins'; font-weight:600;">Hello, I'm Luis Silva Martin 💻 <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="20px"></h1>
 <h3 style="font-weight:500;">Fullstack developer (in progress) 💻 - UX/UI design lover 🎨.</h3>
 
 <h3 style="font-family: 'Poppins'; font-weight:600;">Abut me:</h3>
