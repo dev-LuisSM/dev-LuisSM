@@ -9,12 +9,13 @@ const devLuisSm = {
   myJob: 'Cells Developer in BBVA MX',
   currentlyLearning: {
     frontEnd: ['VueJs', 'React'],
-    backEnd: ['NodeJs', 'Jest'],
-    in: 'LaunchX',
+    backEnd: 'NodeJs',
+    test: 'Jest',
     myMentors: {
         'fernandaOchoa': '@FernandaOchoa',
         'rodrigoMartines': '@romarpla',
         'carloGilmar': '@carlogilmar',
+        'miduDev': '@midudev',
         searchThem: () => { return `Search them on Github`; }
     }
   }
