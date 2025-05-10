@@ -5,18 +5,17 @@
 
 ```javascript
 const devLuisSm = {
-  age: 23,
-  myJob: 'Cells Developer in BBVA MX',
+  age: 26,
+  myJob: 'FrontEnd Developer and UX/UI Designer',
   currentlyLearning: {
-    frontEnd: ['VueJs', 'React'],
+    frontEnd: ['VueJs', 'Angular'],
     backEnd: 'NodeJs',
     test: 'Jest',
     myMentors: {
         'fernandaOchoa': '@FernandaOchoa',
         'rodrigoMartines': '@romarpla',
         'carloGilmar': '@carlogilmar',
-        'miduDev': '@midudev',
-        searchThem: () => { return `Search them on Github`; }
+        'miduDev': '@midudev'
     }
   }
 };
